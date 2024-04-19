@@ -1,0 +1,10 @@
+./images/train/AdobeStock_748568319_Preview.jpeg
+./images/train/AdobeStock_750439575_Preview.jpeg
+./images/train/AdobeStock_751132009_Preview.jpeg
+./images/train/AdobeStock_753775715_Preview.jpeg
+./images/train/AdobeStock_754784563_Preview.jpeg
+./images/train/AdobeStock_755893165_Preview.jpeg
+./images/train/AdobeStock_756442025_Preview.jpeg
+./images/train/pexels-anete-lusina-4793357.jpg
+./images/train/pexels-marcus-aurelius-6787202.jpg
+./images/train/pexels-monstera-production-5302865.jpg
