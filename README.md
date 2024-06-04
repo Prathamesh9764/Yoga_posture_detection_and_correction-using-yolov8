@@ -42,24 +42,25 @@ Flow of Yoga Posture Detection and Correction System:
 
 
 Interface Result
-
-
+![image](https://github.com/Prathamesh9764/Yolov8_yoga_pose/assets/92622855/be3637ff-f49d-4aad-82fa-bb0d7ccd50a9)
 
 
 
 Final Result
+  ![image](https://github.com/Prathamesh9764/Yolov8_yoga_pose/assets/92622855/c54fd0c5-2561-4a2d-84c2-b0fa0c9bbd1c)
   
-
-
                             Results obtained on Images After Execution.
-
-
-                                 . Detected Correct pose On Green Light alert.
+                            
+                            
+![image](https://github.com/Prathamesh9764/Yolov8_yoga_pose/assets/92622855/cb0b779d-8cf6-47b5-abae-3540492792a8)
+                            Detected Correct pose On Green Light alert.
            
-                                  Detected incorrect pose On Red Light Alert.
+![image](https://github.com/Prathamesh9764/Yolov8_yoga_pose/assets/92622855/ca1cc58d-67a1-4fb3-b54c-ef22bdc010be)      
+                            Detected incorrect pose On Red Light Alert.
+                            
 
-   Results Obtained on Correct Pose Using Webcam with user feedback. 
+![image](https://github.com/Prathamesh9764/Yolov8_yoga_pose/assets/92622855/bb0ee062-de89-433f-8799-8b96b75ee521)
 
+      Results Obtained on Correct Pose Using Webcam with user feedback. 
 
-  Results Obtained on Incorrect Pose Using Webcam with user feedback.
 
