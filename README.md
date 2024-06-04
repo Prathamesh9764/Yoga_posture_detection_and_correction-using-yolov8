@@ -37,6 +37,8 @@ Streamlit is a popular open-source framework for building interactive web system
 
 Flow of Yoga Posture Detection and Correction System:
 
+![image](https://github.com/Prathamesh9764/Yolov8_yoga_pose/assets/92622855/0862488e-d6e7-474d-8985-86af2edde50d)
+
 
 
 Interface Result
