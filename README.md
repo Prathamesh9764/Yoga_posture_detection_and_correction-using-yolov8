@@ -14,39 +14,6 @@ The dataset created for this project follows a systematic approach to collect an
 This meticulously created dataset forms the foundation for training the machine learning model to accurately detect and correct yoga postures based on keypoint annotations. It reflects a structured approach to data collection and annotation essential for developing robust computer vision applications in the yoga domain.
 The below images are belonging to the five different classes viz, gingivitis, Caries, Ulcer, Tooth discoloration.
 
-             ![image](https://github.com/Prathamesh9764/Yolov8_yoga_pose/assets/92622855/78a52d9f-ecb3-4870-b0d7-9062eefcfe4e)    
-                Fig.3.1.1 Anjaneyasana                                                           
-
-                ![image](https://github.com/Prathamesh9764/Yolov8_yoga_pose/assets/92622855/be144998-a419-45e0-8211-d1bcf96dbeac)
-                Fig.3.1.2 Katichakrasana
-
-                   
-                Fig.3.1.3 Padmasana
-
-
-                Fig.3.1.4 Trikonasana  
-
-                                                  
-                Fig.3.1.5 Vrkasana
-
-                                                Table 3.1. Train and valid images data description 
-Data Set 
-Total Images
-Anjaneyasana
-103
-Katichakrasana
-100
-Padmasana
-102
-Trikonasana
-107
-Vrkasana
-101
-Tooth Discoloration
-513
-
-
- 
 Requirement:
 Python:
 Python is a high-level programming language known for its simplicity, readability, and vast ecosystem of libraries and frameworks. In the context of the project "Yoga Posture Detection and Correction Using YOLOv8 with Keypoints," Python serves as the primary programming language for developing the computer vision algorithms, data processing, user interface, and system integration.
