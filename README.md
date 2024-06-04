@@ -13,15 +13,21 @@ The dataset created for this project follows a systematic approach to collect an
 8. Final Dataset: After completing the conversion and formatting steps, the dataset was ready for training the YOLOv8 model for yoga posture detection and correction tasks. The dataset includes both training and validation images along with their corresponding annotations in the YOLO format.
 This meticulously created dataset forms the foundation for training the machine learning model to accurately detect and correct yoga postures based on keypoint annotations. It reflects a structured approach to data collection and annotation essential for developing robust computer vision applications in the yoga domain.
 The below images are belonging to the five different classes viz, gingivitis, Caries, Ulcer, Tooth discoloration.
- ![image](https://github.com/Prathamesh9764/Yolov8_yoga_pose/assets/92622855/78a52d9f-ecb3-4870-b0d7-9062eefcfe4e)    
-                Fig.3.1.1 Anjaneyasana                                                           Fig.3.1.2 Katichakrasana
 
+             ![image](https://github.com/Prathamesh9764/Yolov8_yoga_pose/assets/92622855/78a52d9f-ecb3-4870-b0d7-9062eefcfe4e)    
+                Fig.3.1.1 Anjaneyasana                                                           
+
+                ![image](https://github.com/Prathamesh9764/Yolov8_yoga_pose/assets/92622855/be144998-a419-45e0-8211-d1bcf96dbeac)
+                Fig.3.1.2 Katichakrasana
 
                    
-                Fig.3.1.3 Padmasana                                                            Fig.3.1.4 Trikonasana  
+                Fig.3.1.3 Padmasana
+
+
+                Fig.3.1.4 Trikonasana  
 
                                                   
-                                                          Fig.3.1.5 Vrkasana
+                Fig.3.1.5 Vrkasana
 
                                                 Table 3.1. Train and valid images data description 
 Data Set 
