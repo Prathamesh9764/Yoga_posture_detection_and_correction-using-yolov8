@@ -182,6 +182,23 @@ def infer_uploaded_video(conf, model):
     #         st.header("Detected Yoga pose : {}".format(yogaPose))
 
 
+# Function to check if the camera is available
+def check_camera(index):
+    cap = cv2.VideoCapture(index)
+    if cap.isOpened():
+        cap.release()
+        return True
+    return False
+
+# Attempt to open the camera
+camera_index = 0  # You can change this index based on your setup
+if check_camera(camera_index):
+    cap = cv2.VideoCapture(camera_index)
+    st.write("Camera opened successfully!")
+else:
+    st.error("Cannot open camera by index: {}".format(camera_index))
+
+
 def infer_uploaded_webcam(conf, model):
     """
     Execute inference for webcam.
