@@ -51,6 +51,6 @@ Interface:
 ![image](https://github.com/Prathamesh9764/Yolov8_yoga_pose/assets/92622855/be3637ff-f49d-4aad-82fa-bb0d7ccd50a9)
 
 
-
+URL : https://yoga-posture-detection-and-correction-using-yolov8.streamlit.app/
 
 
